@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc027062.css",
-    "main.js": "/static/js/main.9919c9c6.js",
-    "static/js/787.edd43247.chunk.js": "/static/js/787.edd43247.chunk.js",
-    "static/media/hero-banner.png": "/static/media/hero-banner.3b00716925601edcd331.png",
-    "static/media/about-banner.png": "/static/media/about-banner.70735ea4e79d58aa4b1e.png",
-    "static/media/hero-bg.png": "/static/media/hero-bg.b39c666303807ef8b26d.png",
-    "static/media/logo.svg": "/static/media/logo.74fb9227872811a852b8974dc3972086.svg",
-    "index.html": "/index.html",
-    "main.fc027062.css.map": "/static/css/main.fc027062.css.map",
-    "main.9919c9c6.js.map": "/static/js/main.9919c9c6.js.map",
-    "787.edd43247.chunk.js.map": "/static/js/787.edd43247.chunk.js.map"
+    "main.css": "/Doclab_Hospital_Website/static/css/main.32ecbd70.css",
+    "main.js": "/Doclab_Hospital_Website/static/js/main.5fe7d526.js",
+    "static/js/787.edd43247.chunk.js": "/Doclab_Hospital_Website/static/js/787.edd43247.chunk.js",
+    "static/media/hero-banner.png": "/Doclab_Hospital_Website/static/media/hero-banner.3b00716925601edcd331.png",
+    "static/media/about-banner.png": "/Doclab_Hospital_Website/static/media/about-banner.70735ea4e79d58aa4b1e.png",
+    "static/media/hero-bg.png": "/Doclab_Hospital_Website/static/media/hero-bg.b39c666303807ef8b26d.png",
+    "static/media/logo.svg": "/Doclab_Hospital_Website/static/media/logo.74fb9227872811a852b8974dc3972086.svg",
+    "index.html": "/Doclab_Hospital_Website/index.html",
+    "main.32ecbd70.css.map": "/Doclab_Hospital_Website/static/css/main.32ecbd70.css.map",
+    "main.5fe7d526.js.map": "/Doclab_Hospital_Website/static/js/main.5fe7d526.js.map",
+    "787.edd43247.chunk.js.map": "/Doclab_Hospital_Website/static/js/787.edd43247.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc027062.css",
-    "static/js/main.9919c9c6.js"
+    "static/css/main.32ecbd70.css",
+    "static/js/main.5fe7d526.js"
   ]
 }
