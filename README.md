@@ -14,7 +14,7 @@ The website application was built using React JS.
 
   <div align="center" >
     
-    <img  src="https://i.postimg.cc/j5F5fp6h/Hospital-Website.jpg"> 
+   <img  src="https://i.postimg.cc/j5F5fp6h/Hospital-Website.jpg"> 
     
   </div>
 </div>
