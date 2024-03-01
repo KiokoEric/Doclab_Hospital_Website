@@ -3,6 +3,8 @@
 <div align="center" >
 Doclab is a hospital website landing page that was built using React JS.
 
+<br>
+
 [Live Demo](https://KiokoEric.github.io/Doclab_Hospital_Website)
 
 <div>
